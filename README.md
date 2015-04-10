@@ -10,5 +10,5 @@ When you're ready to merge in changes from your feature branch into [CrypticDesi
 
 Pull requests will be reviewed by other collaborators and if all is well, your request will be merged into [CrypticDesigns/ProjectZero](https://github.com/CrypticDesigns/ProjectZero).
 
-## Project Structure
-TBD
+### Wiki
+Edit the wiki using [Markdown](https://help.github.com/articles/markdown-basics/)
